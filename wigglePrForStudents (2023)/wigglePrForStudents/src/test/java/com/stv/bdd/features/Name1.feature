@@ -14,7 +14,7 @@ Feature: Home page
     Examples:
       | language         | abbreviation |
       | "United States"  | "EN-US USD"  |
-      | "United Kingdom" | "EN GBR"     |
+      | "United Kingdom" | "EN GBP"     |
       | "Ireland"        | "EN EUR"     |
 
   Scenario: 3. Change language selecting from Region
